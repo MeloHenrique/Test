@@ -12,7 +12,7 @@ sq config add <APP> <CLIENT_ID> <CLIENT_SECRET>
 sq config use <APP>
 
 // Import this folder
-sq sync in <PATH_TO_THIS_FOLDER
+sq sync in <PATH_TO_THIS_FOLDER>
 ```
 
 ## App
