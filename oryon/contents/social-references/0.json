@@ -1,0 +1,39 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "social-references",
+      "data": {
+        "social-reference": {
+          "iv": {
+            "schemaId": "social-reference",
+            "label": "info@evertrack-consult.com",
+            "url": "mailto:info@evertrack-consult.com",
+            "logo": [
+              "905085f0-8d46-4c94-b484-48f5a85ed603"
+            ]
+          }
+        }
+      },
+      "id": "3ab7788c-910e-4c8c-9d02-eb2f4037922d",
+      "status": "Published"
+    },
+    {
+      "schema": "social-references",
+      "data": {
+        "social-reference": {
+          "iv": {
+            "schemaId": "social-reference",
+            "label": "Follow us on Linkedin",
+            "url": "https://www.linkedin.com/company/evertrack-consult",
+            "logo": [
+              "c3ef270f-1e0a-4608-9431-9b126274ffc1"
+            ]
+          }
+        }
+      },
+      "id": "b21ef6f6-2f08-4756-bf2c-e8197e181e47",
+      "status": "Published"
+    }
+  ]
+}

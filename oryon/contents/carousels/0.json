@@ -1,0 +1,18 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "carousels",
+      "data": {
+        "carousel-items": {
+          "iv": [
+            "60e209c0-b77e-45b0-93ec-ea8268fa42fb",
+            "9b5ccdd6-b3bf-4d25-8980-ddb5a99adbc9"
+          ]
+        }
+      },
+      "id": "56200679-7405-48fc-894e-fa241e1d9cea",
+      "status": "Published"
+    }
+  ]
+}

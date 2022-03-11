@@ -1,0 +1,150 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "containers",
+      "data": {
+        "Title": {
+          "iv": null
+        },
+        "Subtitle": {
+          "iv": null
+        },
+        "Image": {
+          "iv": null
+        },
+        "content": {
+          "iv": []
+        }
+      },
+      "id": "14bfb910-9fbc-4892-bc85-aa3f5b4d7647",
+      "status": "Published"
+    },
+    {
+      "schema": "containers",
+      "data": {
+        "Title": {
+          "iv": "ABOUT US"
+        },
+        "Subtitle": {
+          "iv": "Have you ever heard of us?"
+        },
+        "Image": {
+          "iv": null
+        },
+        "content": {
+          "iv": [
+            {
+              "schemaId": "6e67ccdf-a9e5-4ef4-9061-968abe413efd",
+              "text": "A group of individuals with their own personality, skillset that when put together are able to complement each one’s gaps and flaws, becoming a strong, united and talented team that is specialized in Logistics and Supply Chain execution solutions and how they fit on the overall architecture for both Retailers & 3PL companies."
+            }
+          ]
+        }
+      },
+      "id": "caa95b54-5d7b-4f18-a3e4-2bf3f7787f28",
+      "status": "Published"
+    },
+    {
+      "schema": "containers",
+      "data": {
+        "Title": {
+          "iv": "OUR SERVICES"
+        },
+        "Subtitle": {
+          "iv": "Specialized in Logistics and Supply Chain execution solutions"
+        },
+        "Image": {
+          "iv": null
+        },
+        "content": {
+          "iv": [
+            {
+              "schemaId": "container-content",
+              "Title": "Implementation",
+              "Subtitle": "we deliver on function, on time and on budget",
+              "image": [
+                "e39b7685-69a8-459a-944d-a4b7bd1808b8"
+              ]
+            },
+            {
+              "schemaId": "container-content",
+              "Title": "Consultancy",
+              "Subtitle": "we provide consultancy to increase implementations’ efficiency",
+              "image": [
+                "a627b3df-b8a4-4fd8-8cd4-815a44ea18e9"
+              ]
+            },
+            {
+              "schemaId": "container-content",
+              "Title": "Integration and Data Migration",
+              "Subtitle": "an effective implementation needs to kick off with clean business data and integrate smoothly with other systems",
+              "image": [
+                "651d4e31-f0b8-4a40-8182-a37734f34294"
+              ]
+            },
+            {
+              "schemaId": "container-content",
+              "Title": "Support",
+              "Subtitle": "availability for diagnosis, to fix issues and to act on route causes to release support needs over time",
+              "image": [
+                "f9715b81-a43b-4c11-8b3e-3bcc691fbcce"
+              ]
+            }
+          ]
+        }
+      },
+      "id": "1e613db6-04ad-4afa-9280-3dba22e36ff9",
+      "status": "Published"
+    },
+    {
+      "schema": "containers",
+      "data": {
+        "Title": {
+          "iv": "HOW WE SEE OURSELVES!"
+        },
+        "Subtitle": {
+          "iv": null
+        },
+        "Image": {
+          "iv": null
+        },
+        "content": {
+          "iv": [
+            {
+              "schemaId": "6e67ccdf-a9e5-4ef4-9061-968abe413efd",
+              "text": "We position ourselves as an extension of our client’s team, implementing a single team spirit in each project.  We invest in understanding our clients’ business and challenging them with creative value added solutions that may include revision of business processes, always having in mind the maximization of business value.  Trust, respect and openness built between us and our clients are key ingredients for the success of each implementation project."
+            }
+          ]
+        }
+      },
+      "id": "34505875-a45a-4513-a099-b9bb4aee6051",
+      "status": "Published"
+    },
+    {
+      "schema": "containers",
+      "data": {
+        "Title": {
+          "iv": "WHAT WE DO"
+        },
+        "Subtitle": {
+          "iv": null
+        },
+        "Image": {
+          "iv": [
+            "1ddfad75-8312-47b7-8481-94f73eb26ed1"
+          ]
+        },
+        "content": {
+          "iv": [
+            {
+              "schemaId": "6e67ccdf-a9e5-4ef4-9061-968abe413efd",
+              "text": "We invest in understanding our clients businesses and where they want to go. Combining those with the specialized knowledge in logistics and supply chain processes, and analyzing how they fit in the overall business and architecture, we deliver successful implementations of “state of the art” supply chain solutions while preserving specific business processes that are differentiators for our clients’ businesses.   We partner with our clients not only to deliver a seamless implementation service, but also to support its ongoing needs with support services leveraging long-term relationships with our clients."
+            }
+          ]
+        }
+      },
+      "id": "9e7c4574-766d-4e39-9e04-c249c77c1084",
+      "status": "Published"
+    }
+  ]
+}

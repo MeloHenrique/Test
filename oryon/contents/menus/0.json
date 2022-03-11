@@ -1,0 +1,34 @@
+{
+  "$schema": "./../__json/contents.json",
+  "contents": [
+    {
+      "schema": "menus",
+      "data": {
+        "items": {
+          "iv": [
+            "302801ce-5d2a-4daf-b391-97f6790a6b28",
+            "518d7a2f-8cc1-4e32-ad6d-f04f67110f2c",
+            "bc8f0f6f-f481-439d-9ef4-3c256b538c16"
+          ]
+        },
+        "social-items": {
+          "iv": [
+            "3ab7788c-910e-4c8c-9d02-eb2f4037922d",
+            "b21ef6f6-2f08-4756-bf2c-e8197e181e47"
+          ]
+        },
+        "logo": {
+          "iv": {
+            "schemaId": "clickable-logo",
+            "logo": [
+              "f0e51c96-63bb-41f2-b614-b90281774b9a"
+            ],
+            "url": "/"
+          }
+        }
+      },
+      "id": "f3fbeccf-5641-4379-94a1-99c584d0a863",
+      "status": "Published"
+    }
+  ]
+}
